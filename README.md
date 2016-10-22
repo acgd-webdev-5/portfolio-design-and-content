@@ -1,5 +1,5 @@
 ---
-summary: 'Code up the fully responsive first, basic version of your portfolio website.'
+summary: 'Basically finish your portfolio website. All the content should be real. All the text should be real.'
 time: '10 hours'
 deliverables: 'Lots of files, lots of images, Jekyll'
 submit: 'https://algonquin.instructure.com/courses/501960/assignments/5002578'
@@ -16,18 +16,17 @@ Some details & things about the website to consider:
 - It should be completely responsive between 320px – ~2500px.
 - Only real images and real text.
 - The design, logos, typography, etc. should be complete.
-- **Every single portfolio piece should be final.**
-  <br>If they’re incomplete because you’re still working on them in another class put as much in as absolutely possible.
-- Add in all the accessibility features we’ve discussed in the past. [Accessibility checklist](https://learn-the-web.algonquindesign.ca/topics/accessibility-checklist/).
-- Performance isn’t too big of concern—we’ll be spending time on that later. But don’t put massive RAW graphics on your website. I don’t want to have to wait 10 minutes for it to download.
+- **Every single portfolio piece should be final.**<br>If they’re incomplete because you’re still working on them in another class put as much in as absolutely possible.
+- Add in all the accessibility features we’ve discussed in the past.
+- Performance isn’t too big of a concern—we’ll be spending time on that later. But don’t put massive RAW graphics on your website. I don’t want to have to wait 10 minutes for it to download.
 - There should be no broken links anywhere on the website.
 - **ABSOLUTELY NO JAVASCRIPT!!**—your site should be fully functional without it, we’ll add it in later.
 
 ---
 
-## Testing
+## Browser testing
 
-In class, week 11, we will be doing lots of peer testing—that’s why most of the website needs to be complete by then.
+In class, week 11, we will be doing lots of peer testing—most of the website needs to be complete by then.
 
 Each person will be assigned a browser or validator and will be required to test everybody’s websites.
 
