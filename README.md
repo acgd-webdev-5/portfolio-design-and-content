@@ -9,7 +9,7 @@ submit: "https://algonquin.instructure.com/courses/847182/assignments/7464408"
 
 ## Overview
 
-Put all the final content, images and design into your portfolio. *The whole website should be done—except for Javascript.* **Make it perfect.**
+Put all the final content, images and design into your portfolio. *The whole website should be done—except for JavaScript.* **Make it perfect.**
 
 Some details & things about the website to consider:
 
