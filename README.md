@@ -51,7 +51,7 @@ Below is the rubric of expectations for this project. **You will be assigned a l
 ## Hand in
 
 1. Upload the assignment to GitHub and make sure it works
-2. Submit the GitHub URL to Canvas
+2. Submit the GitHub URL online
 
 ```
 https://username.github.io/portfolio/
