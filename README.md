@@ -22,6 +22,12 @@ Some details & things about the website to consider:
 - There should be no broken links anywhere on the website.
 - **ABSOLUTELY NO JAVASCRIPT!!**—your site should be fully functional without it, we’ll add it in later.
 
+### Critiques
+
+We’ll be performing critiques to get a grade for this project. *More details below, in the “Hand-in” section.*
+
+*There will be two weeks where critiques can be performed: Week 11 or Week 12. Pick whichever week works best for you.*
+
 ---
 
 ## Browser testing
@@ -46,6 +52,8 @@ Below is the rubric of expectations for this project. **You will be assigned a l
 | **Responsiveness** | Not responsive | Works on some screens | Responsive but with lots of awkwardness | Looks great on all screen sizes |
 | **Code quality** | Barely started | Indentation is barely existent, lots of validation errors, very poor semantics | Decent indentation, just a couple validation errors, decent semantics | Well indented, fully valid, good semantics |
 
+[**Copy & paste this code for your GitHub Issue ➔**](https://raw.githubusercontent.com/acgd-webdev-5/portfolio-design-and-content/gh-pages/rubric.md)
+
 ---
 
 ## Hand in
@@ -56,3 +64,47 @@ Below is the rubric of expectations for this project. **You will be assigned a l
 ```
 https://username.github.io/portfolio/
 ```
+
+### Get critiques & grade yourself
+
+To receive a grade on the interactive wireframes you’ll need to:
+
+- [ ] **Get 3 peer critiques**
+- [ ] **Fill out the rubric**
+- [ ] **Write a personal performance rationale**
+- [ ] **Get the teacher’s critique**
+- [ ] **Determine a grade**
+
+#### 3 peer critiques
+
+Select 3 of your peers and get them to [critique your project ➔](/courses/shared/peer-evaluation/)
+
+Also consider performing [usability tests ➔](topics/usability-testing-checklist/)
+
+#### Fill out the rubric
+
+Using the rubric above, [copy the code](https://raw.githubusercontent.com/acgd-webdev-5/portfolio-design-and-content/gh-pages/rubric.md) to a GitHub Issue, attached to your repository, and select the appropriate grade for each section.
+
+Sum the values of the rubric & put that at the bottom of the Issue.
+
+#### Personal performance rationale
+
+As a GitHub Issue, attached to your repository, write a short-ish rationale explaining how well you did completing your project:
+
+- What did you do well?
+- What did you do poorly?
+- What could be improved?
+- What problems did you run into?
+- What complications did you overcome?
+- Does the website communicate the right message?
+- Is the website usable?
+
+#### Teacher critique
+
+Meet with the teacher in class and get a critique of your project.
+
+#### Determine a grade
+
+Using all the above information, assign yourself a grade that reflects everything you’ve completed.
+
+Discuss this grade with the teacher—if it’s fair & honest the teacher will assign the grade immediately.
