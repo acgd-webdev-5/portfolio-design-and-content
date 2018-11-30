@@ -2,7 +2,6 @@
 summary: "Basically finish your portfolio website. All the content should be real. All the text should be real."
 time: "10 hours"
 deliverables: "Lots of files, lots of images, Jekyll"
-submit: "https://algonquin.instructure.com/courses/847182/assignments/7464408"
 ---
 
 # Portfolio design & content
