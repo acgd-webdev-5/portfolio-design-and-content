@@ -61,7 +61,7 @@ Below is the rubric of expectations for this project. **You will be assigned a l
 2. Submit the GitHub URL online
 
 ```
-https://username.github.io/portfolio/
+https://some-fun-name-thing.netlify.com
 ```
 
 ### Get critiques & grade yourself
